@@ -25,7 +25,7 @@ sudo apt-get install python3-venv
 python -m venv path_to_folder/venvs
 ```
 
-5. Activate the virtual environment by running the following code in the terminal:
+4. Activate the virtual environment by running the following code in the terminal:
 
 ```
 # Only run the first two lines if you have not done it yet in this run
@@ -35,6 +35,6 @@ source venvs/bin/activate
 pip install -r requirements.txt
 ```
 
-3. Select interpreter (`venvs/bin/python`).
+5. Select interpreter (`venvs/bin/python`).
 
-4. Run the code.
+6. Run the code.
