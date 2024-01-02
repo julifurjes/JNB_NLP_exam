@@ -11,7 +11,7 @@ This is the exam project of:
 
 ## Setting up the project
 
-In the repository, we have included the best performing model, called `random_forest.py`.
+In the repository, we have included the best performing model, called `random_forest.py`. Here is how you can run it:
 
 1. Acquire the dataset and save it as `job_ads_updated.xlsx`.
 
