@@ -11,6 +11,8 @@ This is the exam project of:
 
 ## Setting up the project
 
+In the repository, we have included the best performing model, called `random_forest.py`.
+
 1. Acquire the dataset and save it as `job_ads_updated.xlsx`.
 
 2. Set up the virtual environment by running the following code in the terminal (make sure that you are in the right directory):
