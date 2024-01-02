@@ -15,15 +15,26 @@ In the repository, we have included the best performing model, called `random_fo
 
 1. Acquire the dataset and save it as `job_ads_updated.xlsx`.
 
-2. Set up the virtual environment by running the following code in the terminal (make sure that you are in the right directory):
+2. Make sure that you are in the right directory.
+
+3. Create a virtual environment by running the following code in the terminal:
 
 ```
+sudo apt-get update
+sudo apt-get install python3-venv
+python -m venv path_to_folder/venvs
+```
+
+5. Activate the virtual environment by running the following code in the terminal:
+
+```
+# Only run the first two lines if you have not done it yet in this run
 sudo apt-get update
 sudo apt-get install python3-venv
 source venvs/bin/activate
 pip install -r requirements.txt
 ```
 
-3. Select interpreter.
+3. Select interpreter (`venvs/bin/python`).
 
 4. Run the code.
