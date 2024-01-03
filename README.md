@@ -38,3 +38,7 @@ pip install -r requirements.txt
 5. Select interpreter (`venvs/bin/python`).
 
 6. Run the code.
+
+## Resources
+
+Fürjes, J. F., Steenholdt, N. M., & Szöllösi, B. (2024). julifurjes/JNB_NLP_exam [HTML, R]. https://github.com/julifurjes/JNB_NLP_exam/ (Original work published 2024)
